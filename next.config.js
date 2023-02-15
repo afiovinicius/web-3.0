@@ -3,6 +3,12 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-}
+  reactStrictMode: true,
+  swcMinify: true,
+  images: {
+    formats: ["image/avif", "image/webp"],
+  },
+};
 
-module.exports = nextConfig
+// eslint-disable-next-line no-undef
+module.exports = nextConfig;
