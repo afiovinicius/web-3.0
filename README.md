@@ -3,7 +3,7 @@
 ---
 
 <div align="center"> 
-  <img src="/public/screenshot.png" alt="Banner Project"> 
+  ![screenshot.png](/public/screenshot.png)
 </div>
 
 ---
