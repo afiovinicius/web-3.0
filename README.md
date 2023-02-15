@@ -2,7 +2,9 @@
 
 ---
 
-![screenshot.png](/public/screenshot.png)
+<div align="center"> 
+  ![screenshot.png](/public/screenshot.png)
+</div>
 
 ---
 
